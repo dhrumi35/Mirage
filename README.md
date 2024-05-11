@@ -7,6 +7,7 @@ This solution is tackling technical complexities by leveraging expertise in AR t
 Tech stack :-
 Blender- to navigate through 3D model 
 Adobe aero :- Tool for Ar 
-GSAP, Html , css , JavaScript 
+GSAP, Html , css , JavaScript
+<br>
 Workflow : 
 We have created the starter  interface that is (landing page ) and have designed our products.
